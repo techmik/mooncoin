@@ -1,0 +1,6 @@
+Makefile
+build
+mooncoin-qt
+qrc_bitcoin.cpp
+src/obj
+src/mooncoind

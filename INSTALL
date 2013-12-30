@@ -1,0 +1,9 @@
+Building MoonCoin
+
+See doc/readme-qt.rst for instructions on building MoonCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MoonCoin.
+
+See doc/build-*.txt for instructions on building mooncoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MoonCoin.
