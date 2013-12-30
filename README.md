@@ -1,11 +1,11 @@
-Mooncoin [LUN]
+Mooncoin [MOON]
 
 RPC 44663
 P2P 44664
 
 Most current README can be found here:
 
-https://mooncoin.wordpress.com/about/
+https://mooncoin.info/
 
 Contact:
 
